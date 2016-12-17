@@ -145,6 +145,18 @@ h1, h2, h3, h4, h5 {
     max-width: 32.25em;
 }
 
+.view_old {
+    font-size:0.75em;
+}
+
+.view_old a {
+    color: #487BE2;
+}
+
+.view_old a:hover {
+    color: #91B5FF;
+}
+
 a {
     color: #FDE700;
     text-decoration: none;
